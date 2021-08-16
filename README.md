@@ -10,4 +10,5 @@ En este curso aprenderas:
 * La personalidad loca del profesor
 * creado por el capo de salu
 * Incluye ejemplos en windows, linux y mac
+* disponible para todas las edades
 Y como aclaracion, este README **es un chiste** .
