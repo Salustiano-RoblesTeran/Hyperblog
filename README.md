@@ -8,7 +8,12 @@ En este curso aprenderas:
 * El flujo de trabajo de Git
 * Trucos muy locos del profesor
 * La personalidad loca del profesor
+<<<<<<< HEAD
 * creado por el capo de salu
 * Incluye ejemplos en windows, linux y mac
 * disponible para todas las edades
+=======
+*creado por el capo de salu
+
+>>>>>>> 92091f5 (Creditos a salu)
 Y como aclaracion, este README **es un chiste** .
