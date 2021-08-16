@@ -8,5 +8,6 @@ En este curso aprenderas:
 * El flujo de trabajo de Git
 * Trucos muy locos del profesor
 * La personalidad loca del profesor
+*creado por el capo de salu
 
 Y como aclaracion, este README **es un chiste** .
